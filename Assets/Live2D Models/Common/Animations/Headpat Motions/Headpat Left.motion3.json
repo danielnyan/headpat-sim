@@ -1,0 +1,363 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 2.8,
+		"Fps": 30.0,
+		"Loop": true,
+		"AreBeziersRestricted": true,
+		"CurveCount": 19,
+		"TotalSegmentCount": 29,
+		"TotalPointCount": 102,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_ANGLE_X",
+			"Segments": [
+				0,
+				14,
+				1,
+				0.467,
+				14,
+				0.933,
+				15,
+				1.4,
+				15,
+				1,
+				1.867,
+				15,
+				2.333,
+				14,
+				2.8,
+				14
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_ANGLE_Y",
+			"Segments": [
+				0,
+				-3,
+				1,
+				0.467,
+				-3,
+				0.933,
+				3,
+				1.4,
+				3,
+				1,
+				1.867,
+				3,
+				2.333,
+				-3,
+				2.8,
+				-3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_ANGLE_Z",
+			"Segments": [
+				0,
+				17,
+				1,
+				0.467,
+				17,
+				0.933,
+				21,
+				1.4,
+				21,
+				1,
+				1.867,
+				21,
+				2.333,
+				17,
+				2.8,
+				17
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_EYE_L_OPEN",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.722,
+				1,
+				1.444,
+				1,
+				2.167,
+				1,
+				1,
+				2.2,
+				1,
+				2.233,
+				0,
+				2.267,
+				0,
+				1,
+				2.3,
+				0,
+				2.333,
+				1,
+				2.367,
+				1,
+				1,
+				2.511,
+				1,
+				2.656,
+				1,
+				2.8,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_EYE_R_OPEN",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.933,
+				0,
+				1.867,
+				0,
+				2.8,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_EYE_SMILE",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.933,
+				1,
+				1.867,
+				1,
+				2.8,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_EYE_BALL_X",
+			"Segments": [
+				0,
+				-0.7,
+				1,
+				0.933,
+				-0.7,
+				1.867,
+				-0.7,
+				2.8,
+				-0.7
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_MOUTH_FORM",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.933,
+				1,
+				1.867,
+				1,
+				2.8,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_MOUTH_OPEN_Y",
+			"Segments": [
+				0,
+				0.5,
+				1,
+				0.933,
+				0.5,
+				1.867,
+				0.5,
+				2.8,
+				0.5
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_TEETH_OPEN",
+			"Segments": [
+				0,
+				0.3,
+				1,
+				0.933,
+				0.3,
+				1.867,
+				0.3,
+				2.8,
+				0.3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_BODY_ANGLE_X",
+			"Segments": [
+				0,
+				3,
+				1,
+				0.933,
+				3,
+				1.867,
+				3,
+				2.8,
+				3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_BODY_ANGLE_Y",
+			"Segments": [
+				0,
+				-2,
+				1,
+				0.933,
+				-2,
+				1.867,
+				-2,
+				2.8,
+				-2
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_BODY_ANGLE_Z",
+			"Segments": [
+				0,
+				-6,
+				1,
+				0.467,
+				-6,
+				0.933,
+				-7,
+				1.4,
+				-7,
+				1,
+				1.867,
+				-7,
+				2.333,
+				-6,
+				2.8,
+				-6
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_BODY",
+			"Segments": [
+				0,
+				3,
+				1,
+				0.933,
+				3,
+				1.867,
+				3,
+				2.8,
+				3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_BREATH",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.467,
+				0,
+				0.933,
+				1,
+				1.4,
+				1,
+				1,
+				1.867,
+				1,
+				2.333,
+				0,
+				2.8,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_UPPER_ARM_L",
+			"Segments": [
+				0,
+				-7,
+				0,
+				2.8,
+				-7
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_LOWER_ARM_L",
+			"Segments": [
+				0,
+				-169,
+				1,
+				0.467,
+				-169,
+				0.933,
+				-172,
+				1.4,
+				-172,
+				1,
+				1.867,
+				-172,
+				2.333,
+				-169,
+				2.8,
+				-169
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_UPPER_ARM_R",
+			"Segments": [
+				0,
+				-10,
+				0,
+				2.8,
+				-10
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "PARAM_LOWER_ARM_R",
+			"Segments": [
+				0,
+				-169,
+				1,
+				0.467,
+				-169,
+				0.933,
+				-169,
+				1.4,
+				-169,
+				1,
+				1.867,
+				-169,
+				2.333,
+				-169,
+				2.8,
+				-169
+			]
+		}
+	]
+}
